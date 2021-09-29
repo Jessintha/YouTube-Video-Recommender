@@ -3,4 +3,4 @@ Given the plethora of data science online resources available, choosing the righ
 
 - First I extracted data using the YouTube API (ref: https://developers.google.com/youtube/v3/docs) with multiple API calls 
 - In the coming days, I plan to automate the extraction and database update process for a dynamic database that records newly available data.
-- In addition, exploring recommendation methodologies and application deployment using Streamlit.
+- In addition, exploring recommendation methodologies and application deployment
